@@ -1,1 +1,20 @@
-FULL STACK JAVA DEVELOPER ROADMAP
+JAVA DEVELOPER ROADMAP
+
+1. Java Programming Language
+2. Data Structures And Algorithms In Java
+3. Relation - MySQL , PostgreSQL
+4. NoSQL - MongoDB
+5. Maven
+6. Junit , Git , github
+7. JDBC
+8. Servlets and JSP
+9. Hibernate
+10. Spring Framework
+11. Spring Boot Framework
+12. Spring AI Framework
+12. Microservices
+13. Jenkins
+14. Docker
+15. 2/3 Projects
+16. Resume
+17.CS FUNDAMENTALS OOP SD DBMS OS DSA
